@@ -1,2 +1,0 @@
-username = siva
-password = 1234

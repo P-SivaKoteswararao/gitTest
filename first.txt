@@ -1,4 +1,4 @@
 hello world 
 good morning 
 
-submit the data to database
+submit the data
