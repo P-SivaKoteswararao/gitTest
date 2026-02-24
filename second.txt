@@ -2,7 +2,6 @@ i am pushing the file from vs code...
 process the data
 steps to modify the data
 
-Good morning
 login and logout
 
 change 1
