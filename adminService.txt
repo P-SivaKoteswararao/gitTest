@@ -1,7 +1,7 @@
 add and remove users
 change the roles
 manage the databse
-closing the databse connection
+closing the mqsql databse connection
 
 change 1
 change 2 in siva databse
